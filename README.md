@@ -8,19 +8,19 @@ It is designed for quick analysis of large numerical datasets using Python and N
 
 Features :
 
-✅ Validates input file existence
-✅ Reads CSV file with comma-separated values
-✅ Converts all values to numeric types
-✅ Creates NumPy arrays from data
-✅ Provides:
+    ✅ Validates input file existence
+    ✅ Reads CSV file with comma-separated values
+    ✅ Converts all values to numeric types
+    ✅ Creates NumPy arrays from data
+    ✅ Provides:
 
-Shape of the dataset
+    Shape of the dataset
 
-Total number of elements
+    Total number of elements
 
-Overall statistical summary
+    Overall statistical summary
 
-Column-wise statistical summary
+    Column-wise statistical summary
 
 Requirements:
 
