@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 NumPy Data Analysis Report Tool
 
 
@@ -50,8 +49,5 @@ Generates:
     Overall statistics
 
     Per-column statistics
-=======
->>>>>>>
-=======
-# Numpy-Data-Statistical-Analyzer
->>>>>>> a4b8bdf3064cf02c73662c4dd0bc4cc81d438b48
+
+
